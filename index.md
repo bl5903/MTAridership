@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Pandemic That Caused a Decline in Ridership
 
 You can use the [editor on GitHub](https://github.com/bl5903/MTAridership/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
