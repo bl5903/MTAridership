@@ -52,6 +52,8 @@ The B39 was the only route in New York City that had an increase in ridership du
 ### Analysis/Thoughts
 The COVID-19 Pandemic has severely affected the ridership in NYC. Most commuters were either essential workers or commuters that were going out for grocery shopping. During the start of the Pandemic, the MTA decided that all Local/Limited bus rides would be for free. Customers boarded through the back door rather than going through the front door. Customers still had to pay the regular fare to use the subway. As a result, bus routes that ran along subway routes had a better ridership than those that didn't. The B39 was the only bus route in NYC that saw an increase in ridership. The least popular route in NYC was the S55. The least popular routes had an average ridership of 130 riders to 350 riders. The most popular route in NYC was the M15 Local/ Select Bus Service. The most popular routes had an average ridership of 16,500 to 25,500 riders.
 
+![Popular 2020 Line Graph](./Pictures/M15SBS.png) ![Popular 2020 Line Graph](./Pictures/M15lcl.png)
+
 ### Project Link
 
-Link used to get ridership data. [Project](https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2020) 
+Link used to get ridership data. [Ridership Data](https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2020)
