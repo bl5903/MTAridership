@@ -1,5 +1,6 @@
 ## The Pandemic That Caused a Decline in Ridership
 ![MTA NYCT Bus Logos](./Pictures/mtalogo.png)
+<img src="./Pictures/mtalogo.png" alt="mta.png" width="200"/>
 
 The purpose of my project is to analyze MTA bus ridership data each year. The COVID-19 pandemic has significantly affected MTA and its commuters. In this project, I utilized the Pandas Dataframe to filter the data in my CSV file.
 
