@@ -1,13 +1,14 @@
 ## The Pandemic That Caused a Decline in Ridership
 ![MTA NYCT Bus Logos](./Pictures/mtalogo.png)
-<img src="./Pictures/mtalogo.png" alt="mta.png" width="200"/>
 
-The purpose of my project is to analyze MTA bus ridership data each year. The COVID-19 pandemic has significantly affected MTA and its commuters. In this project, I utilized the Pandas Dataframe to filter the data in my CSV file.
+Objective: The purpose of my project is to analyze MTA bus ridership data each year. The COVID-19 pandemic has significantly affected MTA and its commuters. In this project, I utilized the Pandas Dataframe to filter the data in my CSV file.
 
-### Markdown
+Background: It is important to solve this problem because many people who do not own cars rely on public transportation to take them to school and work. Unreliable service is unacceptable as people need to get to their destination on time whether it would be school or work. An existing solution is that bus routes are currently running at pre-pandemic headways. A drawback of the existing solution is that some bus routes do not have enough ridership and are mostly empty.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Top 10 Routes From 2015-2020
 
+Below is the output from the CSV file that shows the top 10 most popular routes in New York City from 2020
+![Popular 2020 Output](./Pictures/popoutput.jpeg)
 ```markdown
 Syntax highlighted code block
 
