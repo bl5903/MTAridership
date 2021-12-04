@@ -16,6 +16,8 @@ The M15 Local/Select Bus Service was the most popular route during the pandemic 
 
 Despite a decrease in ridership during the pandemic, these routes were still the 10 most popular routes during the Pandemic. The most popular route from Manhattan was the M15 Local/Select Bus Service. The most popular route from Queens was the Q58. The most popular route from Brooklyn was the B46 Local/Select Bus Service. Finally, the most popular route from the Bronx was the Bx12 Local/Select Bus Service.
 
+![M15 LCL](./Pictures/M15SBS.png) ![M15 SBS](./Pictures/M15lcl.png)
+
 ### 10 Least Popular Routes From 2020
 
 Below is the output from the CSV file that shows the 10 least popular routes in New York City from 2020
@@ -26,6 +28,8 @@ The S55 was the least popular route in NYC during the Pandemic. It was ranked 22
 ![Popular 2020 Line Graph](./Pictures/leastpop2020.png)
 
 These routes had the least amount of ridership during the pandemic with the S55 having the lowest ridership out of all Local/Limited buses in NYC. Routes like the S55,S56,S42,S89, and Bx20 don't even have weekend service which also affects their ridership count. As shown in the graph, the ridership in these routes ranged from an average of 130 to 350 riders during the year.
+
+![S55](./Pictures/S55.png)
 
 ### 10 Routes From 2020 that had the most change in ridership from 2019
 
@@ -38,6 +42,8 @@ The Q70SBS had the most change in ridership from 2019-2020. The route lost 73 pe
 
 The Q70 Select Bus Service (also known as LaGuardia Link) lost the most change in its ridership out of all routes in NYC. The Q70SBS runs from Woodside 61st to LaGuardia Airport. Its main purpose is to connect people from the subway to the airport. The Q70SBS lost most of its riders because most people were not travelling to and from the airport. Since most people were not travelling domestically or internationally, the Q70SBS had the most change during the pandemic (73% lost). The M5 was the only other route that lost 70 percent of its ridership due to the pandemic. The M1, B70, and B69 all lost 68 Percent of its ridership. The M4, M31, M104, B67 all lost 67 percent of its ridership. Rounding out the routes that had the most change in its ridership was the M7 with a loss of 66 percent.
 
+![Q70SBS](./Pictures/Q70SBS.png)
+
 ### 10 Routes From 2020 that had the least change in ridership from 2019
 
 Below is the output from the CSV file that shows the 10 routes in New York City that had the most change in ridership from 2019
@@ -49,10 +55,12 @@ These routes had the least change in ridership from 2019 during the pandemic. Th
 
 The B39 was the only route in New York City that had an increase in ridership during the pandemic. These routes showed the least change in ridership because most of the routes traveled along subway routes. For example, the Q32, Q48, and Q66 all travel along the 7 line in Queens. The Bx19 and Bx39 routes travel along the 2 and 5 lines in the Bronx. The Q56 travels along the J line in Queens. The B39 travels along the J and M lines from Williamsburg Bridge Plaza to the Lower East side of Manhattan via the Williamsburg Bridge. Meanwhile, the B35 and B41 travel through various subway lines in Brooklyn.
 
+![B39](./Pictures/B39.png) ![Bx39](./Pictures/B39.png)
+
 ### Analysis/Thoughts
 The COVID-19 Pandemic has severely affected the ridership in NYC. Most commuters were either essential workers or commuters that were going out for grocery shopping. During the start of the Pandemic, the MTA decided that all Local/Limited bus rides would be for free. Customers boarded through the back door rather than going through the front door. Customers still had to pay the regular fare to use the subway. As a result, bus routes that ran along subway routes had a better ridership than those that didn't. The B39 was the only bus route in NYC that saw an increase in ridership. The least popular route in NYC was the S55. The least popular routes had an average ridership of 130 riders to 350 riders. The most popular route in NYC was the M15 Local/ Select Bus Service. The most popular routes had an average ridership of 16,500 to 25,500 riders.
 
-![Popular 2020 Line Graph](./Pictures/M15SBS.png) ![Popular 2020 Line Graph](./Pictures/M15lcl.png)
+![front bus blocked](./Pictures/mtapandemic.png) 
 
 ### Project Link
 
