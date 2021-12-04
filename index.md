@@ -27,6 +27,17 @@ The S55 was the least popular route in NYC during the Pandemic. It was ranked 22
 
 These routes had the least amount of ridership during the pandemic with the S55 having the lowest ridership out of all Local/Limited buses in NYC. Routes like the S55,S56,S42,S89, and Bx20 don't even have weekend service which also affects their ridership count. As shown in the graph, the ridership in these routes ranged from an average of 130 to 350 riders during the year.
 
+### Routes From 2020 that had the most change in ridership from 2019
+
+Below is the output from the CSV file that shows the 10 routes in New York City that had the most change in ridership from 2019
+![Least Popular 2020 Output](./Pictures/mostchangeoutput.PNG)
+
+The Q70SBS had the most change in ridership from 2019-2020. The route lost 73 percent of its riders during the pandemic. The 2nd route that showed the most change in ridership from 2019 was the M5 which lost 71 percent of its ridership. The M1, B70, and B69 all lost 68 percent of its ridership while the M4, M31, M104, B67 all lost 67 percent of its ridership. The 10th route to show the most change in its ridership was the M7 which lost 66 percent of its ridership.
+
+![Popular 2020 Line Graph](./Pictures/highchange.png)
+
+The Q70 Select Bus Service (also known as LaGuardia Link) lost the most change in its ridership out of all routes in NYC. The Q70SBS runs from Woodside 61st to LaGuardia Airport. Its main purpose is to connect people from the subway to the airport. The Q70SBS lost most of its riders because most people were not travelling to and from the airport. Since most people were not travelling domestically or internationally, the Q70SBS had the most change during the pandemic (73% lost). The M5 was the only other route that lost 70 percent of its ridership due to the pandemic. The M1, B70, and B69 all lost 68 Percent of its ridership. The M4, M31, M104, B67 all lost 67 percent of its ridership. Rounding out the routes that had the most change in its ridership was the M7 with a loss of 66 percent.
+
 ```markdown
 Syntax highlighted code block
 
