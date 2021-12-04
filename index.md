@@ -50,9 +50,8 @@ These routes had the least change in ridership from 2019 during the pandemic. Th
 The B39 was the only route in New York City that had an increase in ridership during the pandemic. These routes showed the least change in ridership because most of the routes traveled along subway routes. For example, the Q32, Q48, and Q66 all travel along the 7 line in Queens. The Bx19 and Bx39 routes travel along the 2 and 5 lines in the Bronx. The Q56 travels along the J line in Queens. The B39 travels along the J and M lines from Williamsburg Bridge Plaza to the Lower East side of Manhattan via the Williamsburg Bridge. Meanwhile, the B35 and B41 travel through various subway lines in Brooklyn.
 
 ### Analysis/Thoughts
+The COVID-19 Pandemic has severely affected the ridership in NYC. Most commuters were either essential workers or commuters that were going out for grocery shopping. During the start of the Pandemic, the MTA decided that all Local/Limited bus rides would be for free. Customers boarded through the back door rather than going through the front door. Customers still had to pay the regular fare to use the subway. As a result, bus routes that ran along subway routes had a better ridership than those that didn't. The B39 was the only bus route in NYC that saw an increase in ridership. The least popular route in NYC was the S55. The least popular routes had an average ridership of 130 riders to 350 riders. The most popular route in NYC was the M15 Local/ Select Bus Service. The most popular routes had an average ridership of 16,500 to 25,500 riders.
 
+### Project Link
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Link used to get ridership data. [Project](https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2020) 
