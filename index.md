@@ -38,6 +38,11 @@ The Q70SBS had the most change in ridership from 2019-2020. The route lost 73 pe
 
 The Q70 Select Bus Service (also known as LaGuardia Link) lost the most change in its ridership out of all routes in NYC. The Q70SBS runs from Woodside 61st to LaGuardia Airport. Its main purpose is to connect people from the subway to the airport. The Q70SBS lost most of its riders because most people were not travelling to and from the airport. Since most people were not travelling domestically or internationally, the Q70SBS had the most change during the pandemic (73% lost). The M5 was the only other route that lost 70 percent of its ridership due to the pandemic. The M1, B70, and B69 all lost 68 Percent of its ridership. The M4, M31, M104, B67 all lost 67 percent of its ridership. Rounding out the routes that had the most change in its ridership was the M7 with a loss of 66 percent.
 
+### Routes From 2020 that had the least change in ridership from 2019
+
+Below is the output from the CSV file that shows the 10 routes in New York City that had the most change in ridership from 2019
+![Least Popular 2020 Output](./Pictures/leastchangeoutput.PNG)
+
 ```markdown
 Syntax highlighted code block
 
