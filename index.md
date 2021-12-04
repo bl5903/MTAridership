@@ -45,7 +45,7 @@ Below is the output from the CSV file that shows the 10 routes in New York City 
 
 These routes had the least change in ridership from 2019 during the pandemic. The B39 actually had an increase in ridership during the pandemic. The B39 gained 32 percent in ridership. The 2nd route with the least change during the pandemic was the Bx39 with a loss in 20 percent of its ridership. The 3rd route with the least change in ridership was the Bx19 with a loss of 23 percent of its ridership. Both the Q48 and Q56 had a loss of 24 percent in its ridership. The Q32 only lost 26 percent of its ridership during 2020. The B35 and Q66 both lost 28 percent of its ridership during the pandemic. Rounding out the 10 routes that had the least change in ridership from 2019 during the pandemic was the B41 and S40/S90 which lost 29 percent of its ridership.
 
-![Popular 2020 Line Graph](./Pictures/highchange.png)
+![Popular 2020 Line Graph](./Pictures/leastchange.png)
 
 The B39 was the only route in New York City that had an increase in ridership during the pandemic. These routes showed the least change in ridership because most of the routes traveled along subway routes. For example, the Q32, Q48, and Q66 all travel along the 7 line in Queens. The Bx19 and Bx39 routes travel along the 2 and 5 lines in the Bronx. The Q56 travels along the J line in Queens. The B39 travels along the J and M lines from Williamsburg Bridge Plaza to the Lower East side of Manhattan via the Williamsburg Bridge. Meanwhile, the B35 and B41 travel through various subway lines in Brooklyn.
 
