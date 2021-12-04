@@ -8,7 +8,7 @@ Background: It is important to solve this problem because many people who do not
 ### Top 10 Routes From 2015-2020
 
 Below is the output from the CSV file that shows the top 10 most popular routes in New York City from 2020
-![Popular 2020 Output](./Pictures/popoutput.jpg)
+![Popular 2020 Output](./Pictures/popoutput.png)
 
 The M15 Local/Select Bus Service was the most popular route during the pandemic with an average ridership of 25,399 riders. The Bx12 Local/Select Bus Service was the second most popular route in 2020 with an average ridership of 23,937 riders. The 3rd popular route was the B46 Local/Select Bus Service with 22,696 riders. The 4th most popular route was the B6 with 20,631 riders. The 5th most popular route was the B44 Local/Select Bus Service with 20,445 riders. The 6th most popular route was the B35 route with 17,811 riders. the 7th most popular route was the Q58 with 17,597 riders. The 8th most popular route was the B82 Local/Select Bus Service with 17,012 riders. The 9th most popular route was the Bx19 with 16,463 riders. Rounding out the top 10 most popular routes from 2020 was the Bx1/Bx2 with 16,429 riders. The Bx1 and Bx2 were counted together because they both travel along the same route between MOTT HAVEN 138 ST VIA CONCOURSE and RIVERDALE 231 ST via CONCOURSE. The only difference is that Bx1 is the Limited version of the Bx2 which means the Bx1 makes fewer stops.
 
