@@ -27,7 +27,7 @@ The S55 was the least popular route in NYC during the Pandemic. It was ranked 22
 
 These routes had the least amount of ridership during the pandemic with the S55 having the lowest ridership out of all Local/Limited buses in NYC. Routes like the S55,S56,S42,S89, and Bx20 don't even have weekend service which also affects their ridership count. As shown in the graph, the ridership in these routes ranged from an average of 130 to 350 riders during the year.
 
-### Routes From 2020 that had the most change in ridership from 2019
+### 10 Routes From 2020 that had the most change in ridership from 2019
 
 Below is the output from the CSV file that shows the 10 routes in New York City that had the most change in ridership from 2019
 ![Least Popular 2020 Output](./Pictures/mostchangeoutput.PNG)
@@ -38,34 +38,20 @@ The Q70SBS had the most change in ridership from 2019-2020. The route lost 73 pe
 
 The Q70 Select Bus Service (also known as LaGuardia Link) lost the most change in its ridership out of all routes in NYC. The Q70SBS runs from Woodside 61st to LaGuardia Airport. Its main purpose is to connect people from the subway to the airport. The Q70SBS lost most of its riders because most people were not travelling to and from the airport. Since most people were not travelling domestically or internationally, the Q70SBS had the most change during the pandemic (73% lost). The M5 was the only other route that lost 70 percent of its ridership due to the pandemic. The M1, B70, and B69 all lost 68 Percent of its ridership. The M4, M31, M104, B67 all lost 67 percent of its ridership. Rounding out the routes that had the most change in its ridership was the M7 with a loss of 66 percent.
 
-### Routes From 2020 that had the least change in ridership from 2019
+### 10 Routes From 2020 that had the least change in ridership from 2019
 
 Below is the output from the CSV file that shows the 10 routes in New York City that had the most change in ridership from 2019
 ![Least Popular 2020 Output](./Pictures/leastchangeoutput.PNG)
 
-```markdown
-Syntax highlighted code block
+These routes had the least change in ridership from 2019 during the pandemic. The B39 actually had an increase in ridership during the pandemic. The B39 gained 32 percent in ridership. The 2nd route with the least change during the pandemic was the Bx39 with a loss in 20 percent of its ridership. The 3rd route with the least change in ridership was the Bx19 with a loss of 23 percent of its ridership. Both the Q48 and Q56 had a loss of 24 percent in its ridership. The Q32 only lost 26 percent of its ridership during 2020. The B35 and Q66 both lost 28 percent of its ridership during the pandemic. Rounding out the 10 routes that had the least change in ridership from 2019 during the pandemic was the B41 and S40/S90 which lost 29 percent of its ridership.
 
-# Header 1
-## Header 2
-### Header 3
+![Popular 2020 Line Graph](./Pictures/highchange.png)
 
-- Bulleted
-- List
+The B39 was the only route in New York City that had an increase in ridership during the pandemic. These routes showed the least change in ridership because most of the routes traveled along subway routes. For example, the Q32, Q48, and Q66 all travel along the 7 line in Queens. The Bx19 and Bx39 routes travel along the 2 and 5 lines in the Bronx. The Q56 travels along the J line in Queens. The B39 travels along the J and M lines from Williamsburg Bridge Plaza to the Lower East side of Manhattan via the Williamsburg Bridge. Meanwhile, the B35 and B41 travel through various subway lines in Brooklyn.
 
-1. Numbered
-2. List
+### Analysis/Thoughts
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bl5903/MTAridership/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
