@@ -14,6 +14,10 @@ The M15 Local/Select Bus Service was the most popular route during the pandemic 
 
 ![Popular 2020 Line Graph](./Pictures/Popular2020.png)
 
+
+
+
+
 Despite a decrease in ridership during the pandemic, these routes were still the 10 most popular routes during the Pandemic. The most popular route from Manhattan was the M15 Local/Select Bus Service. The most popular route from Queens was the Q58. The most popular route from Brooklyn was the B46 Local/Select Bus Service. Finally, the most popular route from the Bronx was the Bx12 Local/Select Bus Service.
 
 ![M15 LCL](./Pictures/M15SBS.png) ![M15 SBS](./Pictures/M15lcl.png)
