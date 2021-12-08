@@ -5,6 +5,8 @@ Objective: The purpose of my project is to analyze MTA bus ridership data during
 
 Background: It is important to solve this problem because many people who do not own cars rely on public transportation to take them to school and work. Unreliable service is unacceptable as people need to get to their destination on time whether it would be school or work. An existing solution is that bus routes are currently running at pre-pandemic headways. A drawback of the existing solution is that some bus routes do not have enough ridership and are mostly empty.
 
+Initial Thoughts: Routes that run along subway lines will have a better ridership than routes that don't because the MTA decided to make all Local/Limited Buses free during the pandemic. Additionally, some routes were converted to run 24 hours 7 days a week to help transport essential workers and doctors/nurses overnight.
+
 ### Top 10 Routes From 2020
 
 Below is the output from the CSV file that shows the top 10 most popular routes in New York City from 2020
@@ -57,7 +59,7 @@ The B39 was the only route in New York City that had an increase in ridership du
 
 ![B39](./Pictures/B39.png) ![Bx39](./Pictures/Bx39.png)
 
-### Analysis/Thoughts
+### Analysis/Final Thoughts
 The COVID-19 Pandemic has severely affected the ridership in NYC. Most commuters were either essential workers or commuters that were going out for grocery shopping. During the start of the Pandemic, the MTA decided that all Local/Limited bus rides would be for free. Customers boarded through the back door rather than going through the front door. Customers still had to pay the regular fare to use the subway. As a result, bus routes that ran along subway routes had a better ridership than those that didn't. The B39 was the only bus route in NYC that saw an increase in ridership. The least popular route in NYC was the S55. The least popular routes had an average ridership of 130 riders to 350 riders. The most popular route in NYC was the M15 Local/ Select Bus Service. The most popular routes had an average ridership of 16,500 to 25,500 riders.
 
 ![front bus blocked](./Pictures/mtapandemic.png)
