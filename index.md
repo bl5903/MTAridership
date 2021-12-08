@@ -1,11 +1,14 @@
 ## The Pandemic That Caused a Decline in Ridership
 ![MTA NYCT Bus Logos](./Pictures/mtalogo.png)
 
+###Objective
 Objective: The purpose of my project is to analyze MTA bus ridership data during 2020. The COVID-19 pandemic has significantly affected MTA and its commuters. In this project, I utilized the Pandas DataFrame to filter the data in my CSV file.
 
+###Background
 Background: It is important to solve this problem because many people who do not own cars rely on public transportation to take them to school and work. Unreliable service is unacceptable as people need to get to their destination on time whether it would be school or work. An existing solution is that bus routes are currently running at pre-pandemic headways. A drawback of the existing solution is that some bus routes do not have enough ridership and are mostly empty.
 
-Initial Thoughts: Routes that run along subway lines will have a better ridership than routes that don't because the MTA decided to make all Local/Limited Buses free during the pandemic. Additionally, some routes were converted to run 24 hours 7 days a week to help transport essential workers and doctors/nurses overnight.
+###Initial Thoughts/Techniques
+Initial Thoughts/Techniques: Routes that run along subway lines will have a better ridership than routes that don't because the MTA decided to make all Local/Limited Buses free during the pandemic. Additionally, some routes were converted to run 24 hours 7 days a week to help transport essential workers and doctors/nurses overnight. For scraping data, I utilized Pandas DataFrame to filter the data in my csv file. For creating visualizations, I used Matplotlib to plot bar graphs for my data. The csv file contains average ridership data for all MTA bus routes in NYC from 2015-2020. For this project, I only focused on Local/Limited Bus Routes because most riders use Local/Limited Buses.
 
 ### Top 10 Routes From 2020
 
@@ -64,6 +67,6 @@ The COVID-19 Pandemic has severely affected the ridership in NYC. Most commuters
 
 ![front bus blocked](./Pictures/mtapandemic.png)
 
-### Project Link
+### Resources
 
 Link used to get ridership data. [Ridership Data](https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2020)

@@ -6,5 +6,5 @@ Theme: Transportation
 Abstract: The purpose of my project is to analyze MTA bus ridership data each year. My approach to using data science is to show the average ridership of the popular and least popular routes and routes with least and most change since 2019.
 Relevance to NYC: The MTA is the main transportation service in NYC.
 URL: https://bl5903.github.io/MTAridership/
-GitHub: 
+GitHub:
 LinkedIn:
