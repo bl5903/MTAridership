@@ -1,17 +1,21 @@
 ## The Pandemic That Caused a Decline in Ridership
 ![MTA NYCT Bus Logos](./Pictures/mtalogo.png)
 
-###Objective
+##Objective
 
 Objective: The purpose of my project is to analyze MTA bus ridership data during 2020. The COVID-19 pandemic has significantly affected MTA and its commuters. In this project, I utilized the Pandas DataFrame to filter the data in my CSV file.
 
-###Background
+##Background
 
 Background: It is important to solve this problem because many people who do not own cars rely on public transportation to take them to school and work. Unreliable service is unacceptable as people need to get to their destination on time whether it would be school or work. An existing solution is that bus routes are currently running at pre-pandemic headways. A drawback of the existing solution is that some bus routes do not have enough ridership and are mostly empty.
 
-###Initial Thoughts/Techniques
+##Initial Thoughts
 
-Initial Thoughts/Techniques: Routes that run along subway lines will have a better ridership than routes that don't because the MTA decided to make all Local/Limited Buses free during the pandemic. Additionally, some routes were converted to run 24 hours 7 days a week to help transport essential workers and doctors/nurses overnight. For scraping data, I utilized Pandas DataFrame to filter the data in my csv file. For creating visualizations, I used Matplotlib to plot bar graphs for my data. The csv file contains average ridership data for all MTA bus routes in NYC from 2015-2020. For this project, I only focused on Local/Limited Bus Routes because most riders use Local/Limited Buses.
+Initial Thoughts: Routes that run along subway lines will have a better ridership than routes that don't because the MTA decided to make all Local/Limited Buses free during the pandemic. Additionally, some routes were converted to run 24 hours 7 days a week to help transport essential workers and doctors/nurses overnight.
+For this project, I only focused on Local/Limited Bus Routes because most riders use Local/Limited Buses. The csv file contains average ridership data for all MTA bus routes in NYC from 2015-2020.
+
+##Techniques
+Techniques: For scraping data, I utilized Pandas DataFrame to filter the data in my csv file. To sort the data, I used .sort_values to sort the route ranks. If I wanted to get the least popular and least change I sorted it by adding ascending = False which reverses the ranks from greatest to least. For creating visualizations, I used Matplotlib to plot bar graphs for my data. To graph the data, I used .plot and set kind = 'bar' to display a bar graph of the routes. I used .xticks and .yticks to label the increments in my graph. I used .xlabel and .ylabel to label the x and y-axis of the graph. I used .title to label the graph with a title. I used .save_fig to save the image of the graph. Finally, I used .show to display the graph.
 
 ### Top 10 Routes From 2020
 
@@ -22,6 +26,8 @@ The M15 Local/Select Bus Service was the most popular route during the pandemic 
 
 ![Popular 2020 Line Graph](./Pictures/Popular2020.png)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 Despite a decrease in ridership during the pandemic, these routes were still the 10 most popular routes during the Pandemic. The most popular route from Manhattan was the M15 Local/Select Bus Service. The most popular route from Queens was the Q58. The most popular route from Brooklyn was the B46 Local/Select Bus Service. Finally, the most popular route from the Bronx was the Bx12 Local/Select Bus Service.
 
 ![M15 LCL](./Pictures/M15SBS.png) ![M15 SBS](./Pictures/M15lcl.png)
@@ -35,6 +41,8 @@ The S55 was the least popular route in NYC during the Pandemic. It was ranked 22
 
 ![Popular 2020 Line Graph](./Pictures/leastpop2020.png)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 These routes had the least amount of ridership during the pandemic with the S55 having the lowest ridership out of all Local/Limited buses in NYC. Routes like the S55,S56,S42,S89, and Bx20 don't even have weekend service which also affects their ridership count. As shown in the graph, the ridership in these routes ranged from an average of 130 to 350 riders during the year.
 
 ![S55](./Pictures/S55.png)
@@ -48,6 +56,8 @@ The Q70SBS had the most change in ridership from 2019-2020. The route lost 73 pe
 
 ![Popular 2020 Line Graph](./Pictures/highchange.png)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 The Q70 Select Bus Service (also known as LaGuardia Link) lost the most change in its ridership out of all routes in NYC. The Q70SBS runs from Woodside 61st to LaGuardia Airport. Its main purpose is to connect people from the subway to the airport. The Q70SBS lost most of its riders because most people were not travelling to and from the airport. Since most people were not travelling domestically or internationally, the Q70SBS had the most change during the pandemic (73% lost). The M5 was the only other route that lost 70 percent of its ridership due to the pandemic. The M1, B70, and B69 all lost 68 Percent of its ridership. The M4, M31, M104, B67 all lost 67 percent of its ridership. Rounding out the routes that had the most change in its ridership was the M7 with a loss of 66 percent.
 
 ![Q70SBS](./Pictures/Q70SBS.png)
@@ -61,6 +71,8 @@ These routes had the least change in ridership from 2019 during the pandemic. Th
 
 ![Popular 2020 Line Graph](./Pictures/leastchange.png)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 The B39 was the only route in New York City that had an increase in ridership during the pandemic. These routes showed the least change in ridership because most of the routes traveled along subway routes. For example, the Q32, Q48, and Q66 all travel along the 7 line in Queens. The Bx19 and Bx39 routes travel along the 2 and 5 lines in the Bronx. The Q56 travels along the J line in Queens. The B39 travels along the J and M lines from Williamsburg Bridge Plaza to the Lower East side of Manhattan via the Williamsburg Bridge. Meanwhile, the B35 and B41 travel through various subway lines in Brooklyn.
 
 ![B39](./Pictures/B39.png) ![Bx39](./Pictures/Bx39.png)
