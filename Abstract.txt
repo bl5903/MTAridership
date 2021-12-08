@@ -1,0 +1,9 @@
+Name: Bill Leung
+Email: bill.leung73@myhunter.cuny.edu
+Resources: Link to data website is https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2020.
+Title: The Pandemic That Caused a Decline in Ridership
+Theme: Transportation
+Abstract: The purpose of my project is to analyze MTA bus ridership data each year. My approach to using data science is to show the average ridership of the popular and least popular routes and routes with least and most change since 2019.
+Relevance to NYC: The MTA is the main transportation service in NYC.
+URL: https://bl5903.github.io/MTAridership/
+Private:
