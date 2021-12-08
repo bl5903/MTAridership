@@ -27,8 +27,6 @@ The M15 Local/Select Bus Service was the most popular route during the pandemic 
 
 ![Popular 2020 Line Graph](./Pictures/Popular2020.png)
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 Despite a decrease in ridership during the pandemic, these routes were still the 10 most popular routes during the Pandemic. The most popular route from Manhattan was the M15 Local/Select Bus Service. The most popular route from Queens was the Q58. The most popular route from Brooklyn was the B46 Local/Select Bus Service. Finally, the most popular route from the Bronx was the Bx12 Local/Select Bus Service.
 
 ![M15 LCL](./Pictures/M15SBS.png) ![M15 SBS](./Pictures/M15lcl.png)
@@ -42,8 +40,6 @@ The S55 was the least popular route in NYC during the Pandemic. It was ranked 22
 
 ![Popular 2020 Line Graph](./Pictures/leastpop2020.png)
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 These routes had the least amount of ridership during the pandemic with the S55 having the lowest ridership out of all Local/Limited buses in NYC. Routes like the S55,S56,S42,S89, and Bx20 don't even have weekend service which also affects their ridership count. As shown in the graph, the ridership in these routes ranged from an average of 130 to 350 riders during the year.
 
 ![S55](./Pictures/S55.png)
@@ -57,8 +53,6 @@ The Q70SBS had the most change in ridership from 2019-2020. The route lost 73 pe
 
 ![Popular 2020 Line Graph](./Pictures/highchange.png)
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 The Q70 Select Bus Service (also known as LaGuardia Link) lost the most change in its ridership out of all routes in NYC. The Q70SBS runs from Woodside 61st to LaGuardia Airport. Its main purpose is to connect people from the subway to the airport. The Q70SBS lost most of its riders because most people were not travelling to and from the airport. Since most people were not travelling domestically or internationally, the Q70SBS had the most change during the pandemic (73% lost). The M5 was the only other route that lost 70 percent of its ridership due to the pandemic. The M1, B70, and B69 all lost 68 Percent of its ridership. The M4, M31, M104, B67 all lost 67 percent of its ridership. Rounding out the routes that had the most change in its ridership was the M7 with a loss of 66 percent.
 
 ![Q70SBS](./Pictures/Q70SBS.png)
@@ -71,9 +65,7 @@ Below is the output from the CSV file that shows the 10 routes in New York City 
 These routes had the least change in ridership from 2019 during the pandemic. The B39 actually had an increase in ridership during the pandemic. The B39 gained 32 percent in ridership. The 2nd route with the least change during the pandemic was the Bx39 with a loss in 20 percent of its ridership. The 3rd route with the least change in ridership was the Bx19 with a loss of 23 percent of its ridership. Both the Q48 and Q56 had a loss of 24 percent in its ridership. The Q32 only lost 26 percent of its ridership during 2020. The B35 and Q66 both lost 28 percent of its ridership during the pandemic. Rounding out the 10 routes that had the least change in ridership from 2019 during the pandemic was the B41 and S40/S90 which lost 29 percent of its ridership.
 
 ![Popular 2020 Line Graph](./Pictures/leastchange.png)
-<img src="./Pictures/leastchange.png" style="height: 1500px; width:1500px;">
 
-<p>&nbsp;</p>
 The B39 was the only route in New York City that had an increase in ridership during the pandemic. These routes showed the least change in ridership because most of the routes traveled along subway routes. For example, the Q32, Q48, and Q66 all travel along the 7 line in Queens. The Bx19 and Bx39 routes travel along the 2 and 5 lines in the Bronx. The Q56 travels along the J line in Queens. The B39 travels along the J and M lines from Williamsburg Bridge Plaza to the Lower East side of Manhattan via the Williamsburg Bridge. Meanwhile, the B35 and B41 travel through various subway lines in Brooklyn.
 
 ![B39](./Pictures/B39.png) ![Bx39](./Pictures/Bx39.png)
